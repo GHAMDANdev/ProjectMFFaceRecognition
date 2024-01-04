@@ -9,7 +9,7 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 3. Download the dlib models from https://drive.google.com/drive/folders/12It2jeNQOxwStBxtagL1vvIJokoz-DL4?usp=sharing and place the data folder inside the repo
 
 ## Usage as Server and Client
-1. first run srver ```features_extraction_to_csv_API```
+1. first run srver ```python features_extraction_to_csv_API```
 2. second run Client ```python client_features_extraction_to_csvAPI.py```
 
 
